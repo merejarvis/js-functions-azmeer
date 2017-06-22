@@ -1,0 +1,12 @@
+
+body{
+  background-color: rgb(30, 121, 91);
+  color: white
+  ;
+}
+
+.container{
+  width:600px;
+  margin: 0 auto;
+  border-style:solid;
+}
